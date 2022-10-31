@@ -77,7 +77,7 @@ Markdown是**一种轻量级标记语言**，创始人为約翰·格魯伯。 �
 - 标题  
 
   1.  = 和 - 
-![[Pasted image 20221031142753.png]]
+![alt 图片]（https://github.com/Gjklmk/Tasks/blob/main/Pasted%20image%2020221031142753.png）
 
   2. \#
 
