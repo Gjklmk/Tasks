@@ -9,7 +9,7 @@
 
 - [hello.md](https://github.com/Gjklmk/Tasks/blob/main/hello.md)
 
-## 3️⃣阶段三3️
+## 3️⃣阶段三
 - 关于VS code配置
 	[VS Code使用 - C/C++（3.24更新）】 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/442865609)
 	————目前找到最简单易成功的教程，跟着配置就好了
