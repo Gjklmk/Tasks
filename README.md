@@ -13,3 +13,4 @@
 - 关于VS code配置
 	[VS Code使用 - C/C++（3.24更新）】 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/442865609)
 	————目前找到最简单易成功的教程，跟着配置就好了
+- 关于GitHub page：https://sspai.com/post/54608
