@@ -30,7 +30,7 @@
 
 - 经过CSS的美化，我们得到了一个精致的页面。但这就只是一个静态的页面，就像一篇排版好的文章，但不能进行操作。这时候就要使用**JavaScript**来实现点击之类的功能了。
 
-	HTML/CSS/JavaScrip三者的关系下图描绘得很形象。
+	<div>HTML/CSS/JavaScrip三者的关系下图描绘得很形象。</div>
 	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/image.png" width="400px">
 
 - 关于VS code——[基本使用](https://guohaomeng.github.io/post/yong-vscode-xie-wang-ye-ji-chu-an-zhuang-pian/)	
