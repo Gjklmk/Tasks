@@ -8,19 +8,23 @@ HTML也可以设置一些元素的样式，但不够简洁，能设置的细节�
 
 
 # 二、CSS的基本语法
-- 格式
-	CSS样式由选择器和一条或多条以**分号**隔开的样式声明组成。每条声明的样式包含着一个CSS
-	属性和属性值。
+- 格式<br>
+	CSS样式由选择器和一条或多条以**分号**隔开的样式声明组成。每条声明的样式包含着一个CSS属性和属性值。
+	
+	
 	选择器名 {
 			属性：属性值；
 			……
 			}
-	![[Pasted image 20221112150914.png]]
+			
+	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/Pasted%20image%2020221112150914.png" width="400px"><br>
 	**注意**
+	
 	1.css声明要以分号结尾，声明要用{}括起来
+	
 	2.建议一行写一个声明
+	
 	3.如果属性值由多个单词红成，要给值加上引号
-
 
 - 注释
 	`/*注释内容*/`
@@ -156,8 +160,8 @@ HTML也可以设置一些元素的样式，但不够简洁，能设置的细节�
 
 
 
-- CSS的盒模型 
-	![[Pasted image 20221113014911.png]]
+- CSS的盒模型 <br>
+	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/Pasted%20image%2020221113014911.png" width="400px">
 	- 蓝框——内容
 	- 绿框——内边距
 	- 黄框——边框
