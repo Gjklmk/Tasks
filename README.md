@@ -22,7 +22,7 @@
 
 <img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-11-12%20121405.png" width="720px">
 
-以以上网页为例，网页中有各种各样的元素，比如一些文本、一些图片、一些按钮等等。它还可以实现各种各样的功能，比如点击code，弹出下载界面。这些元素是怎么组合排列的？功能是怎么实现的？
+以以上网页为例，网页中有各种各样的元素，比如一些文本、一些图片、一些按钮等等。它还可以实现各种各样的功能，比如点击code，弹出下载界面。这些元素是怎么组合排列并呈现的？功能是怎么实现的？
 
 
 - 关于VS code——[基本使用](https://guohaomeng.github.io/post/yong-vscode-xie-wang-ye-ji-chu-an-zhuang-pian/)	
@@ -30,3 +30,4 @@
 	配置其他语言环境——[VS Code使用 - C/C++（3.24更新）](https://zhuanlan.zhihu.com/p/442865609)————目前找到最简单易成功的教程，跟着配置就好了
 
 - 关于GitHub page：https://sspai.com/post/54608
+
