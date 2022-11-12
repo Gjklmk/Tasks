@@ -24,13 +24,14 @@
 
 以以上网页为例，网页中有各种各样的元素，比如一些文本、一些图片、一些按钮等等。它还可以实现各种各样的功能，比如点击code，弹出下载界面。这些元素是怎么组合排列并呈现的？功能是怎么实现的？
 
-首先是网页中的内容，像是文本和图片一类的东西是用HTML来完成的。
+- 首先是网页中的内容，像是文本和图片一类的东西是用**HTML**来完成的。
 
-通过HTML，我们可以搭建一个基本的框架。但只用HTML做出来的东西太简单了，所以我们可以用CSS来美化一下。
+- 通过HTML，我们可以搭建一个基本的框架。但只用HTML做出来的东西太简单了，所以我们可以用**CSS**来美化一下。
 
-经过CSS的美化，我们得到了一个精致的页面。但这就只是一个静态的页面，就像一篇排版好的文章，但不能进行操作。这时候就要使用JavaScript来实现点击之类的功能了。
+- 经过CSS的美化，我们得到了一个精致的页面。但这就只是一个静态的页面，就像一篇排版好的文章，但不能进行操作。这时候就要使用**JavaScript**来实现点击之类的功能了。
 
-HTML/CSS/JavaScrip三者的关系上图描绘得很形象。
+	HTML/CSS/JavaScrip三者的关系下图描绘得很形象。
+	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/image.png" width="400px">
 
 - 关于VS code——[基本使用](https://guohaomeng.github.io/post/yong-vscode-xie-wang-ye-ji-chu-an-zhuang-pian/)	
 
