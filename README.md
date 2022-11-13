@@ -35,7 +35,7 @@
 
 	<div>HTML/CSS/JavaScrip三者的关系下图描绘得很形象。</div>
 	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/image.png" width="400px">
-
+	
 ### 🧷wbe工具
 - 关于VS code——[基本使用](https://guohaomeng.github.io/post/yong-vscode-xie-wang-ye-ji-chu-an-zhuang-pian/)	
 
@@ -43,4 +43,6 @@
 
 - 关于GitHub page：https://sspai.com/post/54608
 
+	制作的网页
+		https://github.com/Gjklmk/Tasks/blob/main/web/Tasks.html
 ---
