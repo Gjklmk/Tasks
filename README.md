@@ -42,6 +42,7 @@
 	配置其他语言环境——[VS Code使用 - C/C++（3.24更新）](https://zhuanlan.zhihu.com/p/442865609)————目前找到最简单易成功的教程，跟着配置就好了
 
 - 关于GitHub page：https://sspai.com/post/54608
+	https://www.bilibili.com/video/BV1T341167xo?vd_source=89a17076aba9767938ed80fb80f82e45
 
 	制作的网页
 		https://gjklmk.github.io/
