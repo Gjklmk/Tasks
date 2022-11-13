@@ -44,5 +44,5 @@
 - 关于GitHub page：https://sspai.com/post/54608
 
 	制作的网页
-		https://github.com/Gjklmk/Tasks/blob/main/web/Tasks.html
+		https://gjklmk.github.io/
 ---
