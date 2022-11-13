@@ -30,7 +30,8 @@
 - 通过HTML，我们可以搭建一个基本的框架。但只用HTML做出来的东西太简单了，所以我们可以用**CSS**来美化一下。<br>
 	[阶段三 CSS](https://github.com/Gjklmk/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%89%20CSS.md)	
 
-- 经过CSS的美化，我们得到了一个精致的页面。但这就只是一个静态的页面，就像一篇排版好的文章，但不能进行操作。这时候就要使用**JavaScript**来实现点击之类的功能了。
+- 经过CSS的美化，我们得到了一个精致的页面。但这就只是一个静态的页面，就像一篇排版好的文章，但不能进行操作。这时候就要使用**JavaScript**来实现点击之类的功能了。<br>
+	[阶段三 JavaScript](https://github.com/Gjklmk/Tasks/blob/main/%E9%98%B6%E6%AE%B5%E4%B8%89%20JavaScript.md)
 
 	<div>HTML/CSS/JavaScrip三者的关系下图描绘得很形象。</div>
 	<img src="https://raw.githubusercontent.com/Gjklmk/Tasks/main/image.png" width="400px">
