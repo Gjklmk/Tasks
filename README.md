@@ -52,3 +52,4 @@
 由于本来的笔记中有很多图片，如果转化为Markdown文件上传后在GitHub上不显示，逐个添加太过麻烦，因此采用了分享页面的方法：
 https://flowus.cn/share/db830fd6-ed9d-4e38-ae50-9843e00e0eea
 ### 游戏库
+https://github.com/Gjklmk/Ruby-s-Adventure
