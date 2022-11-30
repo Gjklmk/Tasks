@@ -48,4 +48,7 @@
 		https://gjklmk.github.io/
 ---
 ## 4️⃣阶段四
-[游戏包](https://github.com/Gjklmk/Tasks/tree/main/%E6%B8%B8%E6%88%8F%E5%8C%85)
+### 笔记
+由于本来的笔记中有很多图片，如果转化为Markdown文件上传后在GitHub上不显示，且编辑太过麻烦，因此采用了分享页面的方法：
+https://flowus.cn/share/db830fd6-ed9d-4e38-ae50-9843e00e0eea
+【FlowUs 息流】阶段四
