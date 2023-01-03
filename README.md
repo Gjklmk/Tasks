@@ -54,3 +54,11 @@ https://flowus.cn/share/db830fd6-ed9d-4e38-ae50-9843e00e0eea
 ### 游戏库
 - [RubyAdventure](https://github.com/Gjklmk/Ruby-s-Adventure)<br>
 - [FlappyBird](https://github.com/Gjklmk/Flappy-Bird)
+
+---
+## 5️⃣阶段五
+[笔记](https://flowus.cn/share/5f0bb99a-086b-49da-858e-14d9d5e0d3b1
+【FlowUs 息流】Python)
+
+---
+## 6️⃣
