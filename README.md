@@ -61,3 +61,4 @@ https://flowus.cn/share/db830fd6-ed9d-4e38-ae50-9843e00e0eea
 
 ---
 ## 6️⃣阶段六
+[代码](https://github.com/Gjklmk/Tasks/blob/main/geek.py)
