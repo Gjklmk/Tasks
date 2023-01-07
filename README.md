@@ -48,3 +48,16 @@
 		https://gjklmk.github.io/
 ---
 ## 4️⃣阶段四
+### 笔记
+由于本来的笔记中有很多图片，如果转化为Markdown文件上传后在GitHub上不显示，逐个添加太过麻烦，因此采用了分享页面的方法：
+https://flowus.cn/share/db830fd6-ed9d-4e38-ae50-9843e00e0eea
+### 游戏库
+- [RubyAdventure](https://github.com/Gjklmk/Ruby-s-Adventure)<br>
+- [FlappyBird](https://github.com/Gjklmk/Flappy-Bird)
+
+---
+## 5️⃣阶段五
+[笔记](https://flowus.cn/share/5f0bb99a-086b-49da-858e-14d9d5e0d3b1)
+
+---
+## 6️⃣阶段六
