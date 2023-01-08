@@ -3,10 +3,16 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+
 url = "https://itawenya.cn"
 
 
 # 获取网页资源
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76'
+}
+
+
 r = requests.get(url)
 
 
@@ -30,7 +36,7 @@ textf.close()
 os.makedirs('./img/', exist_ok=True)
 for photo_url in photo_urls:
     img = "https://itawenya.cn" + photo_url['src']
-    q = requests.get(img, stream=True)
+    q = requests.get(img, stream=True, verify=False)
     image_name = img.split('/')[-1]
     with open('./img/%s' % image_name, 'wb') as f:
         f.write(q.content)
@@ -46,7 +52,7 @@ for photo_url in photo_urls:
 #     f.write(q.content)
 
 
-#photo = open("geek.photo", "wb")
+# photo = open("geek.photo", "wb")
 # photo.write(photo_urls)
 
 # photo.close()
