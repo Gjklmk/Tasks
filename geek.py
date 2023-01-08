@@ -2,6 +2,8 @@
 import requests
 from bs4 import BeautifulSoup
 import os
+import time
+from requests.packages import urllib3
 
 
 url = "https://itawenya.cn"
@@ -11,7 +13,7 @@ url = "https://itawenya.cn"
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.76'
 }
-
+urllib3.disable_warnings()
 
 r = requests.get(url)
 
@@ -41,6 +43,8 @@ for photo_url in photo_urls:
     with open('./img/%s' % image_name, 'wb') as f:
         f.write(q.content)
         f.flush()
+    q.close()
+    time.sleep(1)
 
 
 # requests.adapters.DEFAULT_RETRIES = 5
